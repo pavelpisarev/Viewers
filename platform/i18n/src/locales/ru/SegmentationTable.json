@@ -1,0 +1,18 @@
+{
+  "Active": "Активно",
+  "Add new segmentation": "Добавить новую сегментацию",
+  "Add segment": "Добавить сегмент",
+  "Add segmentation": "Добавить сегментацию",
+  "Delete": "Удалить",
+  "Display inactive segmentations": "Отображать неактивные сегментации",
+  "Export DICOM SEG": "Экспорт DICOM SEG",
+  "Download DICOM SEG": "Загрузка DICOM SEG",
+  "Download DICOM RTSTRUCT": "Загрузка DICOM RTSTRUCT",
+  "Fill": "Заливка",
+  "Inactive segmentations": "Неактивные сегментации",
+  "Opacity": "Прозрачность",
+  "Outline": "Контур",
+  "Rename": "Переименовать",
+  "Segmentation": "Сегментация",
+  "Size": "Размер"
+}

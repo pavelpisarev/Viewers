@@ -1,0 +1,14 @@
+{
+  "Cancel": "$t(Buttons:Cancel)",
+  "Function": "Функция",
+  "General": "Основные",
+  "Hotkeys": "Горячие клавиши",
+  "Language": "Язык",
+  "No hotkeys found": "Горячие клавиши не настроены. Горячие клавиши можно настроить в файле app-config.js.",
+  "Reset to defaults": "$t(Buttons:Reset to defaults)",
+  "ResetDefaultMessage": "Настройки успешно сброшены. <br /> Неообходимо <strong>Сохранить</strong> для осуществления действия.",
+  "Save": "$t(Buttons:Save)",
+  "SaveMessage": "Настройки сохранены",
+  "Shortcut": "Клавиша",
+  "User preferences": "Пользовательские настройки"
+}

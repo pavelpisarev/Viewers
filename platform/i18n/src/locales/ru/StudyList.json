@@ -1,0 +1,20 @@
+{
+  "AccessionNumber": "Номер доступа",
+  "ClearFilters": "Сбросить фильтры",
+  "Description": "Описание",
+  "Empty": "Пустой",
+  "Filter list to 100 studies or less to enable sorting": "Отберите 100 и менее исследований для возможности сортировки",
+  "Instances": "Снимков",
+  "MRN": "MRN",
+  "Modality": "Модальность",
+  "PatientName": "Имя пациента",
+  "Previous": "< Назад",
+  "Page": "Страница",
+  "Next": "Вперед >",
+  "No studies available": "Нет доступных исследований",
+  "Results per page": "Результатов на странице",
+  "Series":"Серий",
+  "Number of studies": "Количество исследований",
+  "StudyDate": "Дата исследования",
+  "StudyList": "Список исследований"
+}

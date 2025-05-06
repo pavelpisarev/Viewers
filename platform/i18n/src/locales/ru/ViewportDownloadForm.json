@@ -1,0 +1,14 @@
+{
+  "emptyFilenameError": "Имя файла не может быть пустым",
+  "fileType": "Тип файла",
+  "filename": "Имя файла",
+  "formTitle": "Укажите размеры, имя файла и желаемый тип выходного изображения",
+  "imageHeight": "Высота изображения (px)",
+  "imagePreview": "Предпросмотр изображения",
+  "imageWidth": "Ширина изображения (px)",
+  "keepAspectRatio": "Сохранять пропорции",
+  "loadingPreview": "Загрузка превью изображения...",
+  "minHeightError": "Минимальная высота is 100px.",
+  "minWidthError": "Минимальная ширина 100px.",
+  "showAnnotations": "Показать аннотации"
+}

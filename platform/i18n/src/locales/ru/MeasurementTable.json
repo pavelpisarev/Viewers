@@ -1,0 +1,21 @@
+{
+  "Add to existing report": "Добавить в существующий отчет",
+  "Create Report": "Создать отчет",
+  "Create new report":"Создать новый отчет",
+  "Criteria nonconformities": "Criteria nonconformities",
+  "Delete": "Удалить",
+  "Description": "Описание",
+  "Do you want to add this measurement to the existing report?": "Добавить это измерение в существующий репорт?",
+  "Enter your annotation": "Введите вашу аннотацию",
+  "Export": "Экспорт",
+  "MAX": "MAX",
+  "Measurements": "$t(Buttons:Measurements)",
+  "NonTargets": "NonTargets",
+  "No, do not ask again": "Нет, больше не спрашивать",
+  "No tracked measurements": "Нет отслеживаемых измерений",
+  "Save": "$t(Buttons:Save)",
+  "Track measurements for this series?": "Отслеживать измерения для этой серии?",
+  "Relabel": "Переименовать",
+  "You have existing tracked measurements. What would you like to do with your existing tracked measurements?":
+  "У вас есть существующие отслеживаемые измерения. Что бы вы хотели сделать с существующими отслеживаемыми измерениями?"
+}

@@ -1,0 +1,23 @@
+{
+  "Close": "Закрыть",
+  "Image": "Снимок",
+  "Layout": "Размещение",
+  "LOAD": "ЗАГРУЗКА",
+  "Measurements": "Измерения",
+  "mm": "мм",
+  "More": "Еще",
+  "Next": "Следующий",
+  "No": "Нет",
+  "NoStudyDate": "Нет даты исследования",
+  "Play": "Воспроизведение",
+  "Previous": "Предыдущий",
+  "Reset": "Сбросить",
+  "RowsPerPage": "строк на странице",
+  "Series": "Серия",
+  "Show": "Показать",
+  "Stop": "Стоп",
+  "StudyDate": "Дата исследования",
+  "localDateFormat": "DD.MM.YYYY",
+  "localTimeFormat": "HH:mm",
+  "Yes": "Да"
+}
