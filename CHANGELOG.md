@@ -3,6 +3,39 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.11.0-beta.59](https://github.com/OHIF/Viewers/compare/v3.11.0-beta.58...v3.11.0-beta.59) (2025-06-20)
+
+
+### Bug Fixes
+
+* **action-corners:** check hideWhenDisabled at both the evaluator and prop levels ([#5149](https://github.com/OHIF/Viewers/issues/5149)) ([d6d3fa7](https://github.com/OHIF/Viewers/commit/d6d3fa7ef47cc56ad5c9d0e577023358a0c26381))
+
+
+
+
+
+# [3.11.0-beta.58](https://github.com/OHIF/Viewers/compare/v3.11.0-beta.57...v3.11.0-beta.58) (2025-06-18)
+
+
+### Bug Fixes
+
+* **UnitTest:** run was failing due to JS tests importing TS modules ([#5145](https://github.com/OHIF/Viewers/issues/5145)) ([268d62e](https://github.com/OHIF/Viewers/commit/268d62e9913f6ade375e663ba5736b8ebd0c1075))
+
+
+
+
+
+# [3.11.0-beta.57](https://github.com/OHIF/Viewers/compare/v3.11.0-beta.56...v3.11.0-beta.57) (2025-06-18)
+
+
+### Bug Fixes
+
+* **getToolbarModule:** fix enabled state of image slice sync ([#5136](https://github.com/OHIF/Viewers/issues/5136)) ([dc829c8](https://github.com/OHIF/Viewers/commit/dc829c8fcad1ce1fc2e9aef446cc474d08e00835))
+
+
+
+
+
 # [3.11.0-beta.56](https://github.com/OHIF/Viewers/compare/v3.11.0-beta.55...v3.11.0-beta.56) (2025-06-13)
 
 
