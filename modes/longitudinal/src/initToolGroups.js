@@ -98,7 +98,9 @@ function initDefaultToolGroup(extensionManager, toolGroupService, commandsManage
     ],
   };
 
-  toolGroupService.createToolGroupAndAddTools(toolGroupId, tools);
+  const updatedTools = commandsManager.run('initializeSegmentLabelTool', { tools });
+
+  toolGroupService.createToolGroupAndAddTools(toolGroupId, updatedTools);
 }
 
 function initSRToolGroup(extensionManager, toolGroupService) {

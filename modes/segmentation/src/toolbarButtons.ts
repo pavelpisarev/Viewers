@@ -80,8 +80,7 @@ const toolbarButtons: Button[] = [
     props: {
       icon: 'OrientationSwitch',
       label: 'Orientation',
-      tooltip:
-        'Change viewport orientation between axial, sagittal, coronal and acquisition planes',
+      tooltip: 'Change viewport orientation between axial, sagittal, coronal and reformat planes',
       evaluate: {
         name: 'evaluate.orientationMenu',
         // hideWhenDisabled: true,
@@ -736,6 +735,22 @@ const toolbarButtons: Button[] = [
             { value: 'RectangleScissor', label: 'Rectangle' },
           ],
           commands: 'setToolActiveToolbar',
+        },
+      ],
+    },
+  },
+  {
+    id: 'SegmentLabelTool',
+    uiType: 'ohif.toolBoxButton',
+    props: {
+      icon: 'tool-segment-label',
+      label: 'Segment Label Display',
+      tooltip: 'Click to show or hide segment labels when hovering with your mouse.',
+      commands: { commandName: 'toggleSegmentLabel' },
+      evaluate: [
+        'evaluate.cornerstoneTool.toggle',
+        {
+          name: 'evaluate.cornerstone.hasSegmentation',
         },
       ],
     },
