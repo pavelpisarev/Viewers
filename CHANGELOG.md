@@ -3,6 +3,192 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.12.0-beta.79](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.78...v3.12.0-beta.79) (2025-10-30)
+
+
+### Bug Fixes
+
+* **security:** Exact versioning and docs dependabot alerts ([#5536](https://github.com/OHIF/Viewers/issues/5536)) ([000e42e](https://github.com/OHIF/Viewers/commit/000e42e9a6eaa4f0878cbf877f03b09a459ad18e))
+
+
+
+
+
+# [3.12.0-beta.78](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.77...v3.12.0-beta.78) (2025-10-29)
+
+**Note:** Version bump only for package ohif-monorepo-root
+
+
+
+
+
+# [3.12.0-beta.77](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.76...v3.12.0-beta.77) (2025-10-28)
+
+
+### Bug Fixes
+
+* **3DSegmentation:** [Bug] The viewports become blank when loading the seg file in advanced layout after closing the seg file from any other advanced layout ([#5505](https://github.com/OHIF/Viewers/issues/5505)) ([76f7d4e](https://github.com/OHIF/Viewers/commit/76f7d4e23aa359a3397b10adf0bf09df3763f190))
+
+
+
+
+
+# [3.12.0-beta.76](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.75...v3.12.0-beta.76) (2025-10-27)
+
+
+### Bug Fixes
+
+* **security:** Addressed dependabot alert CVE-2025-59288 concerning playwright ([#5527](https://github.com/OHIF/Viewers/issues/5527)) ([1f11c83](https://github.com/OHIF/Viewers/commit/1f11c83006bff98cb8434f0662b4de55d5b9bf78))
+
+
+
+
+
+# [3.12.0-beta.75](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.74...v3.12.0-beta.75) (2025-10-24)
+
+
+### Bug Fixes
+
+* **security:** For bun, enforce frozen lockfile. For yarn, strongly suggest using frozen lockfile. ([#5508](https://github.com/OHIF/Viewers/issues/5508)) ([1009c60](https://github.com/OHIF/Viewers/commit/1009c6091107d2db0768622120f916208a391343))
+
+
+
+
+
+# [3.12.0-beta.74](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.73...v3.12.0-beta.74) (2025-10-23)
+
+
+### Features
+
+* **jpeg2000:** Add 16-bit RGB support to JPEG2000 decoder  ([#5519](https://github.com/OHIF/Viewers/issues/5519)) ([a154443](https://github.com/OHIF/Viewers/commit/a1544432db42bf77864bb7df2f757cae819a4b4d))
+
+
+
+
+
+# [3.12.0-beta.73](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.72...v3.12.0-beta.73) (2025-10-22)
+
+
+### Bug Fixes
+
+* Fixed the tooltip text of the window button, it was mistakenly written in Chinese in the en-us json ([#5513](https://github.com/OHIF/Viewers/issues/5513)) ([8b9445c](https://github.com/OHIF/Viewers/commit/8b9445c442d0a40b7e4393614313192bd006461b))
+
+
+
+
+
+# [3.12.0-beta.72](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.71...v3.12.0-beta.72) (2025-10-22)
+
+**Note:** Version bump only for package ohif-monorepo-root
+
+
+
+
+
+# [3.12.0-beta.71](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.70...v3.12.0-beta.71) (2025-10-21)
+
+
+### Bug Fixes
+
+* **segmentation:** Fixed the manual scrolling of the segments list and implemented automatic scrolling to the active segment. ([#5510](https://github.com/OHIF/Viewers/issues/5510)) ([1df4f84](https://github.com/OHIF/Viewers/commit/1df4f843fe3c377643938563ff9e2e4f930d8537))
+
+
+
+
+
+# [3.12.0-beta.70](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.69...v3.12.0-beta.70) (2025-10-20)
+
+
+### Bug Fixes
+
+* **rendering:** Fix palette color LUT conversion causing black images ([#5509](https://github.com/OHIF/Viewers/issues/5509)) ([ffd9ec3](https://github.com/OHIF/Viewers/commit/ffd9ec32730580e266ffae365a10ac3e524dd6cf))
+
+
+
+
+
+# [3.12.0-beta.69](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.68...v3.12.0-beta.69) (2025-10-20)
+
+
+### Bug Fixes
+
+* Pass the correct sop uid + frame for rehydration to prevent associating rehydrated measurements with the wrong data ([#5506](https://github.com/OHIF/Viewers/issues/5506)) ([5037802](https://github.com/OHIF/Viewers/commit/503780247ce7228c602a539fd88ea374e7d0d42f)), closes [#2404](https://github.com/OHIF/Viewers/issues/2404)
+
+
+
+
+
+# [3.12.0-beta.68](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.67...v3.12.0-beta.68) (2025-10-18)
+
+
+### Bug Fixes
+
+* **segmentation:** Lock all rehydrated segmentation segments when panelSegmentation.disableEditing is true. ([#5503](https://github.com/OHIF/Viewers/issues/5503)) ([170e860](https://github.com/OHIF/Viewers/commit/170e860aa1b786ab6056cf31076804302a2bc462))
+
+
+
+
+
+# [3.12.0-beta.67](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.66...v3.12.0-beta.67) (2025-10-17)
+
+
+### Bug Fixes
+
+* **ErrorBoundary:** Allow for details to be shown in production. ([#5504](https://github.com/OHIF/Viewers/issues/5504)) ([4620cc3](https://github.com/OHIF/Viewers/commit/4620cc3acf89f218c3feaaf4c153a3dc8b023b23))
+
+
+
+
+
+# [3.12.0-beta.66](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.65...v3.12.0-beta.66) (2025-10-17)
+
+**Note:** Version bump only for package ohif-monorepo-root
+
+
+
+
+
+# [3.12.0-beta.65](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.64...v3.12.0-beta.65) (2025-10-17)
+
+**Note:** Version bump only for package ohif-monorepo-root
+
+
+
+
+
+# [3.12.0-beta.64](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.63...v3.12.0-beta.64) (2025-10-15)
+
+
+### Bug Fixes
+
+* **docker:** Use bun version 1.2.23 for docker build. ([#5501](https://github.com/OHIF/Viewers/issues/5501)) ([86e924f](https://github.com/OHIF/Viewers/commit/86e924fb88cc146f91c7d826ee071e451de47942))
+
+
+
+
+
+# [3.12.0-beta.63](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.62...v3.12.0-beta.63) (2025-10-15)
+
+
+### Bug Fixes
+
+* Segmentation not displayed and unable to draw segments in volume viewport after converting Labelmap to Surface ([#5488](https://github.com/OHIF/Viewers/issues/5488)) ([faea09e](https://github.com/OHIF/Viewers/commit/faea09e7ef2667aad5cef1efc2a6516677ca2915))
+
+
+
+
+
+# [3.12.0-beta.62](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.61...v3.12.0-beta.62) (2025-10-15)
+
+
+### Bug Fixes
+
+* **segmentationService:** prevent no representation crash ([#5495](https://github.com/OHIF/Viewers/issues/5495)) ([3137aed](https://github.com/OHIF/Viewers/commit/3137aed0170196a61e16c6dac0c15bcc41691919))
+
+
+
+
+
 # [3.12.0-beta.61](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.60...v3.12.0-beta.61) (2025-10-15)
 
 
