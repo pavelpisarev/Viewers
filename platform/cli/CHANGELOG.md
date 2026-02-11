@@ -3,6 +3,385 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.13.0-beta.7](https://github.com/OHIF/Viewers/compare/v3.13.0-beta.6...v3.13.0-beta.7) (2026-02-10)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.13.0-beta.6](https://github.com/OHIF/Viewers/compare/v3.13.0-beta.5...v3.13.0-beta.6) (2026-02-10)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.13.0-beta.5](https://github.com/OHIF/Viewers/compare/v3.13.0-beta.4...v3.13.0-beta.5) (2026-02-10)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.13.0-beta.4](https://github.com/OHIF/Viewers/compare/v3.13.0-beta.3...v3.13.0-beta.4) (2026-02-10)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.13.0-beta.3](https://github.com/OHIF/Viewers/compare/v3.13.0-beta.2...v3.13.0-beta.3) (2026-02-10)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.13.0-beta.2](https://github.com/OHIF/Viewers/compare/v3.13.0-beta.1...v3.13.0-beta.2) (2026-02-10)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.13.0-beta.1](https://github.com/OHIF/Viewers/compare/v3.13.0-beta.0...v3.13.0-beta.1) (2026-02-09)
+
+
+### Bug Fixes
+
+* **security:** Use a resolution for axios to address CVE-2026-25639. ([#5793](https://github.com/OHIF/Viewers/issues/5793)) ([94c9e16](https://github.com/OHIF/Viewers/commit/94c9e162f3d17840c7e9659557f685ca8642d06f))
+
+
+
+
+
+# [3.13.0-beta.0](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.135...v3.13.0-beta.0) (2026-02-07)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.135](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.134...v3.12.0-beta.135) (2026-02-05)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.134](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.133...v3.12.0-beta.134) (2026-02-05)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.133](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.132...v3.12.0-beta.133) (2026-02-04)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.132](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.131...v3.12.0-beta.132) (2026-01-30)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.131](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.130...v3.12.0-beta.131) (2026-01-30)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.130](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.129...v3.12.0-beta.130) (2026-01-28)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.129](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.128...v3.12.0-beta.129) (2026-01-27)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.128](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.127...v3.12.0-beta.128) (2026-01-27)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.127](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.126...v3.12.0-beta.127) (2026-01-22)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.126](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.125...v3.12.0-beta.126) (2026-01-22)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.125](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.124...v3.12.0-beta.125) (2026-01-21)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.124](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.123...v3.12.0-beta.124) (2026-01-16)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.123](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.122...v3.12.0-beta.123) (2026-01-14)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.122](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.121...v3.12.0-beta.122) (2026-01-13)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.121](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.120...v3.12.0-beta.121) (2026-01-12)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.120](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.119...v3.12.0-beta.120) (2026-01-09)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.119](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.118...v3.12.0-beta.119) (2026-01-08)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.118](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.117...v3.12.0-beta.118) (2026-01-07)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.117](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.116...v3.12.0-beta.117) (2026-01-06)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.116](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.115...v3.12.0-beta.116) (2026-01-06)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.115](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.114...v3.12.0-beta.115) (2026-01-05)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.114](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.113...v3.12.0-beta.114) (2026-01-05)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.113](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.112...v3.12.0-beta.113) (2025-12-19)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.112](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.111...v3.12.0-beta.112) (2025-12-19)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.111](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.110...v3.12.0-beta.111) (2025-12-18)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.110](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.109...v3.12.0-beta.110) (2025-12-18)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.109](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.108...v3.12.0-beta.109) (2025-12-18)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.108](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.107...v3.12.0-beta.108) (2025-12-17)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.107](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.106...v3.12.0-beta.107) (2025-12-16)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.106](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.105...v3.12.0-beta.106) (2025-12-16)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.105](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.104...v3.12.0-beta.105) (2025-12-15)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.104](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.103...v3.12.0-beta.104) (2025-12-12)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.103](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.102...v3.12.0-beta.103) (2025-12-12)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.102](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.101...v3.12.0-beta.102) (2025-12-10)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.101](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.100...v3.12.0-beta.101) (2025-12-09)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.100](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.99...v3.12.0-beta.100) (2025-12-05)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.99](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.98...v3.12.0-beta.99) (2025-12-04)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.98](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.97...v3.12.0-beta.98) (2025-12-03)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
+# [3.12.0-beta.97](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.96...v3.12.0-beta.97) (2025-12-03)
+
+**Note:** Version bump only for package @ohif/cli
+
+
+
+
+
 # [3.12.0-beta.96](https://github.com/OHIF/Viewers/compare/v3.12.0-beta.95...v3.12.0-beta.96) (2025-12-02)
 
 **Note:** Version bump only for package @ohif/cli
